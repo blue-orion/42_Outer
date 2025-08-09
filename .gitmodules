@@ -1,3 +1,4 @@
 [submodule "ft_ping"]
 	path = ft_ping
 	url = https://github.com/blue-orion/ft_ping.git
+	branch = main
