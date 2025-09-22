@@ -2,3 +2,6 @@
 	path = ft_ping
 	url = https://github.com/blue-orion/ft_ping.git
 	branch = main
+[submodule "libasm"]
+	path = libasm
+	url = git@github.com:blue-orion/libasm.git
