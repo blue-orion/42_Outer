@@ -5,3 +5,6 @@
 [submodule "libasm"]
 	path = libasm
 	url = git@github.com:taeho89/libasm.git
+[submodule "ft_traceroute"]
+	path = ft_traceroute
+	url = git@github.com:taeho89/ft_traceroute.git
