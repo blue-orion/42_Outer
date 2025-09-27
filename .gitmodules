@@ -1,7 +1,7 @@
 [submodule "ft_ping"]
 	path = ft_ping
-	url = https://github.com/blue-orion/ft_ping.git
+	url = git@github.com:taeho89/ft_ping.git
 	branch = main
 [submodule "libasm"]
 	path = libasm
-	url = git@github.com:blue-orion/libasm.git
+	url = git@github.com:taeho89/libasm.git
